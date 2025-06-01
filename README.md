@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos Actuales
 
-- 🕵️‍♂️ Avanzar con proyectos de **Pentesting** y documentarlos en mi blog personal: [J0elBermud3z.github.io](https://J0elBermud3z.github.io)
+- 🕵 Avanzar con proyectos de **Pentesting** y documentarlos en mi blog personal: [J0elBermud3z.github.io](https://J0elBermud3z.github.io)
 - 🚀 Mejorar en **desarrollo Backend**
 
 ---
@@ -40,7 +40,7 @@
 
 **¡Gracias por visitar mi perfil!** 🙌
 
-> *"El conocimiento no es poder, el uso del conocimiento lo es."* 🧠⚡
+> *"El conocimiento no es poder, el uso del conocimiento lo es."* 
 
 
 
