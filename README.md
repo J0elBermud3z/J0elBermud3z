@@ -38,9 +38,7 @@
 
 ---
 
-**¡Gracias por visitar mi perfil!** 🙌
-
-> *"El conocimiento no es poder, el uso del conocimiento lo es."* 
+**¡Gracias por visitar mi perfil!** 
 
 
 
